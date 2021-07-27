@@ -1,0 +1,3 @@
+apple:яблоко
+mouse:мышь 
+home:дом
